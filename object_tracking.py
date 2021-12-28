@@ -124,7 +124,7 @@ while True:
     vert2=(int(cg[0][0]+width),int(cg[0][1]+height))
 
     cv2.rectangle(imgCamColor,vert1,vert2,(255,255,0))
-    cv2.imshow('Camara', imgCamColor)
+    cv2.imshow('Camera', imgCamColor)
     
 
     key = cv2.waitKey(1)
