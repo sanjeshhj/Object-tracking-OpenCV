@@ -2,7 +2,7 @@
 
 The objective is to track a robot within a video
   
- OpenCV on python is used to implement the project.
+Impplemented using OpenCV in Python
  
  Python - version 3.9.7
  
